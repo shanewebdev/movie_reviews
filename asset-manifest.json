@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/movie_reviews/static/css/main.f1907afb.css",
+    "main.js": "/movie_reviews/static/js/main.9c77fdfc.js",
+    "static/media/AvengersBanner.jpg": "/movie_reviews/static/media/AvengersBanner.5a02d7db3b550d3048a0.jpg",
+    "static/media/MoneyHeistBanner.jpg": "/movie_reviews/static/media/MoneyHeistBanner.eebb44baaa7d3ef9aa6f.jpg",
+    "static/media/GOTBanner.jpg": "/movie_reviews/static/media/GOTBanner.66adf7213114911070d4.jpg",
+    "static/media/searchIcon.png": "/movie_reviews/static/media/searchIcon.926bf649046465473807.png",
+    "index.html": "/movie_reviews/index.html",
+    "main.f1907afb.css.map": "/movie_reviews/static/css/main.f1907afb.css.map",
+    "main.9c77fdfc.js.map": "/movie_reviews/static/js/main.9c77fdfc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1907afb.css",
+    "static/js/main.9c77fdfc.js"
+  ]
+}
