@@ -1,7 +1,7 @@
 {
   "name": "ratingsandreview",
   "version": "0.1.0",
-  "homepage": "https://shane2297.github.io/movie_reviews",
+  "homepage": "https://shanewebdev.github.io/movie_reviews",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
